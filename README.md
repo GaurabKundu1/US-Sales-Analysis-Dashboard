@@ -8,7 +8,7 @@ Welcome to the documentation for the US Sales Analysis Dashboard, a visually cap
 
 ## Accessing the Dashboard
 
-You can access the US Sales Analysis Dashboard on Tableau Online Public by following this link: [Sales Analysis Dashboard on Tableau Public.](https://public.tableau.com/views/SuperstoreSalesDashboard_16982126147710/SuperstoreSalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+You can access the US Sales Analysis Dashboard on Tableau Public by following this link: [Sales Analysis Dashboard on Tableau Public.](https://public.tableau.com/views/SuperstoreSalesDashboard_16982126147710/SuperstoreSalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Here is a Glimpse of the Dashboard:
 
