@@ -1,2 +1,5 @@
 # US-Sales-Analysis-Dashboard-
-This Repo contains the US SalesAnalysis Dashboard developed in Tableau
+
+## Tableau Dahboard Developed by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
+
+
