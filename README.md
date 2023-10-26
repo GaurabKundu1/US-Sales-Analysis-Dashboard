@@ -16,6 +16,13 @@ Here is a Glimpse of the Dashboard:
 
 ## Features
 
-### Interactive Filters
+### 1. Interactive Filters
 
 The dashboard offers a range of interactive filters, allowing users to drill down into specific states, product categories, or customer segments. This level of interactivity empowers you to customize your analysis and uncover hidden patterns or trends that impact sales performance. The ability to filter and tailor the data according to your specific needs is a valuable asset for in-depth analysis.
+
+### 2. Key Performance Indicators (KPIs)
+
+The dashboard provides a real-time overview of Key Performance Indicators (KPIs) for Total Sales, Profit, and Quantity for the years 2022 vs. 2021. These KPIs serve as a compass for understanding the performance of your business, enabling data-driven decisions and actionable insights.
+
+### 3. Visualizations
+
