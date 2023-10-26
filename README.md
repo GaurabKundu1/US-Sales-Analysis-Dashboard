@@ -13,3 +13,9 @@ You can access the US Sales Analysis Dashboard on Tableau Online Public by follo
 Here is a Glimpse of the Dashboard:
 
 <img src="https://github.com/GaurabKundu1/US-Sales-Analysis-Dashboard/assets/86102231/1a36799e-e2f6-4919-9c1d-a41ca681a38b">
+
+## Features
+
+### Interactive Filters
+
+The dashboard offers a range of interactive filters, allowing users to drill down into specific states, product categories, or customer segments. This level of interactivity empowers you to customize your analysis and uncover hidden patterns or trends that impact sales performance. The ability to filter and tailor the data according to your specific needs is a valuable asset for in-depth analysis.
