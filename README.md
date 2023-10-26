@@ -28,3 +28,6 @@ The dashboard provides a real-time overview of Key Performance Indicators (KPIs)
 
 The dashboard is equipped with visually captivating charts, graphs, and data points that present data in a clear and concise manner. Whether you're interested in distribution by states, above and below average sales, or user demographics, this dashboard provides a comprehensive visual representation of various aspects related to sales analysis.
 
+## Target Audience
+
+This dashboard caters to professionals in the digital landscape, including marketers, researchers, and decision-makers. It serves as a valuable resource for optimizing strategies and making informed business decisions. The actionable insights and comprehensive data visualizations can significantly contribute to improving sales strategies, driving growth, and enhancing profitability.
